@@ -1,3 +1,3 @@
-# THM_Certificates
+# Certificates
 
-My certificates on TryHackMe
+My certificates
